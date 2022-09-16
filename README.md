@@ -7,6 +7,7 @@
 
 - React
 - React-sidebar
+- React-icons
 - Styled-components
 
 <h2> Vídeo do Projeto: </h2>
